@@ -1,0 +1,29 @@
+{
+  "name": "method-memoize",
+  "version": "1.0.0",
+  "description": "Memoize methods of class instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joakin/method-memoize"
+  },
+  "keywords": [
+    "method",
+    "class",
+    "memoize",
+    "cache",
+    "decorator"
+  ],
+  "author": "Joaquin Oltra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joakin/method-memoize/issues"
+  },
+  "homepage": "https://github.com/joakin/method-memoize",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
